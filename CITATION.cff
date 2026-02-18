@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Test Software"
+version: 1.0.0
+date-released: "2024-01-01"
+authors:
+  - given-names: Test
+    family-names: User
+    affiliation: "FAIR Data Innovations Hub"
+repository-code: "https://github.com/fair-test/test-repo"
+license: MIT
