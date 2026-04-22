@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 type: software
 title: Test Software
-version: '9'
+version: '1'
 date-released: '2026-04-22'
 authors:
   - given-names: Test
@@ -10,4 +10,4 @@ authors:
     affiliation: FAIR Data Innovations Hub
 repository-code: https://github.com/fair-test/test-repo
 license: MIT
-doi: 10.5281/zenodo.492391
+doi: 10.5281/zenodo.492395
