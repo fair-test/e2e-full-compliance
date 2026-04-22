@@ -3,7 +3,7 @@
   "@type": "SoftwareSourceCode",
   "name": "Test Software",
   "description": "A test software for FAIR compliance",
-  "version": "1.0.0",
+  "version": "9",
   "license": "https://spdx.org/licenses/MIT",
   "author": [
     {
@@ -16,5 +16,7 @@
       }
     }
   ],
-  "codeRepository": "https://github.com/fair-test/test-repo"
+  "codeRepository": "https://github.com/fair-test/test-repo",
+  "identifier": "https://doi.org/10.5281/zenodo.492391",
+  "dateModified": "2026-04-22"
 }
